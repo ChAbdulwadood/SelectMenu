@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background:linear-gradient(130deg,#1f0f4b , #252525)
+
+}
+
+h1 {
+    color: #f7f6f6;
+}
+
+label {
+    font-size: 18px;
+    color: #eeeded;
+    margin-bottom: 10px;
+    display: block;
+}
+
+select {
+    padding: 15px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #292929;
+    width: 200px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+}
+
+#selected-social-media {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #f5f3f3;
+}
+
+/* Style for social media icons */
+.social-media-icon {
+    margin-right: 5px;
+}
